@@ -1,4 +1,5 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+# 
+Heart Disease Prediction using Machine Learning
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/drive/1JFpJMnTqiKG81__K5G9vqYXlDwVYJVdB?usp=sharing)
